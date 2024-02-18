@@ -1,0 +1,13 @@
+#avatar{
+    background-color: #ccc;
+    border-radius: 50%;
+    width: 175px;
+    height: 175px;
+    border: 1px solid #000;
+}
+h2{
+    color: #0d6efd;
+}button{
+    background-color: #0d6efd;
+    color: #fff;
+}
